@@ -1,0 +1,8 @@
+obj\Debug\ios\ObjCRuntime\Messaging.g.cs
+obj\Debug\ios\SWRevealViewControllerBinding\SWRevealViewController.g.cs
+obj\Debug\ios\SWRevealViewControllerBinding\SWRevealViewControllerDelegate.g.cs
+obj\Debug\ios\SWRevealViewControllerBinding\UIViewController_SWRevealViewController.g.cs
+obj\Debug\ios\SWRevealViewControllerBinding\Constants.g.cs
+obj\Debug\ios\SWRevealViewControllerBinding\SWRevealViewControllerSegueSetController.g.cs
+obj\Debug\ios\SWRevealViewControllerBinding\SWRevealViewControllerSeguePushController.g.cs
+obj\Debug\ios\ObjCRuntime\Libraries.g.cs
